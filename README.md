@@ -17,7 +17,7 @@ The generator works for the latest version of the Postman Schema at the time of 
 Install the package:
 
 ```bash
-composer require andreaselia/laravel-api-to-postman
+composer require vantom/laravel-api-to-postman
 ```
 
 Publish the config file:
